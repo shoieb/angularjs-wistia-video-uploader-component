@@ -1,0 +1,11 @@
+{
+  "name": "angularjs-wistia-video-uploader-component",
+  "dependencies": {
+    "jquery": "~3.1.1",
+    "angular": "~1.6.6",
+    "angular-ui-router": "~1.0.6",
+    "angular-mocks": "^1.6.9",
+    "jquery-ui": "^1.12.1",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
