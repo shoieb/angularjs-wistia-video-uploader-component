@@ -1,6 +1,8 @@
 # AngularJs Wistia Video Uploader
 An AngularJs componemt build to upload video in Wistia.
 
+https://shoieb.github.io/angularjs-wistia-video-uploader-component/
+
 # Dev stack
 - AngularJs
 - Bower
